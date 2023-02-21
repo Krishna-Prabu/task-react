@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/task-react/static/css/main.9d1efaa8.css",
+    "main.js": "/task-react/static/js/main.8bd641b6.js",
+    "static/js/787.54b4c553.chunk.js": "/task-react/static/js/787.54b4c553.chunk.js",
+    "static/media/johncena.png": "/task-react/static/media/johncena.4ed4f766911396c973f9.png",
+    "static/media/rungirl.jpg": "/task-react/static/media/rungirl.342b46b983ba966eaf0e.jpg",
+    "static/media/runcolor.png": "/task-react/static/media/runcolor.9405b731f81ad072bf0a.png",
+    "static/media/manready.jpg": "/task-react/static/media/manready.57a498ac15e2c5f49c31.jpg",
+    "static/media/shoes2.jpg": "/task-react/static/media/shoes2.4e6a716245c66b01fb5a.jpg",
+    "static/media/headerbackground.jpg": "/task-react/static/media/headerbackground.f59f2232e37954af6cc9.jpg",
+    "static/media/manstand.jpg": "/task-react/static/media/manstand.5ffde04af66faed271de.jpg",
+    "static/media/mango.jpg": "/task-react/static/media/mango.f3fb0247cf9db6e32c67.jpg",
+    "static/media/achieve.webp": "/task-react/static/media/achieve.7aa4e70fa9f4a360f4be.webp",
+    "index.html": "/task-react/index.html",
+    "main.9d1efaa8.css.map": "/task-react/static/css/main.9d1efaa8.css.map",
+    "main.8bd641b6.js.map": "/task-react/static/js/main.8bd641b6.js.map",
+    "787.54b4c553.chunk.js.map": "/task-react/static/js/787.54b4c553.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1efaa8.css",
+    "static/js/main.8bd641b6.js"
+  ]
+}
