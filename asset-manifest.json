@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/task-react/static/css/main.3cd8d210.css",
-    "main.js": "/task-react/static/js/main.832f613e.js",
+    "main.css": "/task-react/static/css/main.1825b561.css",
+    "main.js": "/task-react/static/js/main.b40717a9.js",
     "static/js/787.54b4c553.chunk.js": "/task-react/static/js/787.54b4c553.chunk.js",
     "static/media/johncena.png": "/task-react/static/media/johncena.4ed4f766911396c973f9.png",
     "static/media/rungirl.jpg": "/task-react/static/media/rungirl.342b46b983ba966eaf0e.jpg",
@@ -13,12 +13,12 @@
     "static/media/mango.jpg": "/task-react/static/media/mango.f3fb0247cf9db6e32c67.jpg",
     "static/media/achieve.webp": "/task-react/static/media/achieve.7aa4e70fa9f4a360f4be.webp",
     "index.html": "/task-react/index.html",
-    "main.3cd8d210.css.map": "/task-react/static/css/main.3cd8d210.css.map",
-    "main.832f613e.js.map": "/task-react/static/js/main.832f613e.js.map",
+    "main.1825b561.css.map": "/task-react/static/css/main.1825b561.css.map",
+    "main.b40717a9.js.map": "/task-react/static/js/main.b40717a9.js.map",
     "787.54b4c553.chunk.js.map": "/task-react/static/js/787.54b4c553.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cd8d210.css",
-    "static/js/main.832f613e.js"
+    "static/css/main.1825b561.css",
+    "static/js/main.b40717a9.js"
   ]
 }
